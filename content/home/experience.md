@@ -18,15 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
+[[experience]]
+  title = "Graduate Student"
+  company = "Columbia University"
+  company_url = ""
+  location = "New York City, US"
+  date_start = "2016-01-01"
+  date_end = ""
+  description = """
+  * Developed methods for extracting neural trajectories and neural signals from volumetric videos of transgenic C-elegans under the supervision of Prof. L. Paninski (work in progress).
+  * Developed online algorithms for fast extraction of calcium imaging data from light field images.
+  """
 
 [[experience]]
   title = "Software Developer"
   company = "Hasin Co. & Torob"
   company_url = ""
   location = "Tehran, Iran"
-  date_start = "2012"
-  date_end = "2014"
+  date_start = "2012-01-01"
+  date_end = "2014-01-01"
   description = """
   Responsibilities include:
   
