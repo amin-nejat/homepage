@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "NeuroPAL: A Neuronal Polychromatic Atlas of Landmarks for Whole-Brain Imaging in C. elegans"
+  image: "neuropal.png"
 ---
