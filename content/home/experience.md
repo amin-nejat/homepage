@@ -26,7 +26,9 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = ""
   description = """
-  * Developed methods for extracting neural trajectories and neural signals from volumetric videos of transgenic C-elegans under the supervision of Prof. L. Paninski (work in progress).
+  What I've done so far includes:
+  
+  * Developed methods for extracting neural trajectories and neural signals from volumetric videos of transgenic C-elegans.
   * Developed online algorithms for fast extraction of calcium imaging data from light field images.
   """
 
