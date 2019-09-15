@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Gold Medal in International Mathematical Competition (IMC)"
   url = ""
   certificate_url = ""
-  date_start = "2015"
+  date_start = "2015-01-01"
   date_end = ""
   description = ""
 
