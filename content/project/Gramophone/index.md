@@ -8,10 +8,6 @@ date: "2014-01-01T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Screenshot
-  focal_point: Smart
-
 url_code: ""
 url_pdf: ""
 url_slides: ""
