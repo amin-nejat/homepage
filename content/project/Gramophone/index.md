@@ -10,7 +10,7 @@ date: "2000-00-00T00:00:00Z"
 external_link: ""
 
 image:
-  caption:
+  caption: Screenshot
   focal_point: Smart
 
 links: ""
