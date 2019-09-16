@@ -1,6 +1,6 @@
 ---
 title: Traffic Control and Vehicle Counting System
-summary: ::
+summary: ""
 
 tags:
 - Robotics
