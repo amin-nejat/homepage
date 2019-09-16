@@ -1,9 +1,11 @@
 ---
-title: Gramophone
-summary: A native iOS app for downloading and listening to Iranian music.
+title: Cinemas of India iOS Application
+summary: ""
+
 tags:
-- Robotics
-date: "2014-01-01T00:00:00Z"
+- iOS application
+- movies
+date: "2000-00-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -21,4 +23,4 @@ url_video: ""
 slides: example
 ---
 
-Gramophone is an iOS music marketplace for both iPhone and iPad. Users can search for Iranian music, download them and listen to them through it's integrated player. Project for Hasin Company. Implemented in Objective-C using Cocoa framework for graphics and SQLite for database system.
+An iOS indian movie marketplace developed for both iPad and iPhone. Users can buy movies through this application and watch movies in their iOS device. Project for an Indian Company done with A. Rostami. Implemented in Objective-C using Cocoa framework.

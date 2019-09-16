@@ -1,9 +1,10 @@
 ---
-title: Gramophone
-summary: A native iOS app for downloading and listening to Iranian music.
+title: Messaging System
+summary: Simple chat and messaging system.
+
 tags:
 - Robotics
-date: "2014-01-01T00:00:00Z"
+date: "2000-00-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -21,4 +22,4 @@ url_video: ""
 slides: example
 ---
 
-Gramophone is an iOS music marketplace for both iPhone and iPad. Users can search for Iranian music, download them and listen to them through it's integrated player. Project for Hasin Company. Implemented in Objective-C using Cocoa framework for graphics and SQLite for database system.
+A simple messaging system that allows users to chat through it's web interface. Some features such as offline messaging and notifications are also implemented. Project for Web course done with V. Haratian. Implemeted in Javascript using NodeJS environment.

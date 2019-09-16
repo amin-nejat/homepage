@@ -1,9 +1,10 @@
 ---
-title: Gramophone
-summary: A native iOS app for downloading and listening to Iranian music.
+title: Advanced Numerical Calculator
+summary: ""
+
 tags:
 - Robotics
-date: "2014-01-01T00:00:00Z"
+date: "2000-00-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -21,4 +22,4 @@ url_video: ""
 slides: example
 ---
 
-Gramophone is an iOS music marketplace for both iPhone and iPad. Users can search for Iranian music, download them and listen to them through it's integrated player. Project for Hasin Company. Implemented in Objective-C using Cocoa framework for graphics and SQLite for database system.
+A numerical calculator which allows users to perform advanced mathematical calculations and analysis such as integrating or differentiating a function, matrix calculations, etc. Project for Numerical Analysis course done with V. Haratian and S. Taeb. Implemented in Matlab.

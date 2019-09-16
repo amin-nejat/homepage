@@ -1,13 +1,19 @@
 ---
-title: Gramophone
-summary: A native iOS app for downloading and listening to Iranian music.
+title: Taaghche
+summary: Native iOS application for book reading.
+
 tags:
 - Robotics
-date: "2014-01-01T00:00:00Z"
+date: "2000-00-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+image:
+  caption:
+  focal_point: Smart
+
+links: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -21,4 +27,4 @@ url_video: ""
 slides: example
 ---
 
-Gramophone is an iOS music marketplace for both iPhone and iPad. Users can search for Iranian music, download them and listen to them through it's integrated player. Project for Hasin Company. Implemented in Objective-C using Cocoa framework for graphics and SQLite for database system.
+Taaghche is an iOS E-book marketplace along with an integrated pdf reader that allows its users to download and read Iranian E-books. Project for Hasin Company. Implemented in Objective-C using Cocoa framework for graphics and SQLite for database system.

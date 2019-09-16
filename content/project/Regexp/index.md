@@ -1,9 +1,11 @@
 ---
-title: Gramophone
-summary: A native iOS app for downloading and listening to Iranian music.
+title: Conversion Tool Between Regular Expressions and DFA/NFA Graphs
+summary: ""
+
 tags:
-- Robotics
-date: "2014-01-01T00:00:00Z"
+- Regular Expression
+- DFA Graphs
+date: "2000-00-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -21,4 +23,4 @@ url_video: ""
 slides: example
 ---
 
-Gramophone is an iOS music marketplace for both iPhone and iPad. Users can search for Iranian music, download them and listen to them through it's integrated player. Project for Hasin Company. Implemented in Objective-C using Cocoa framework for graphics and SQLite for database system.
+Both sides of conversion is available through the graphical user interface. Project for Theory of Languages and Automata course. Implemented in Java using Swing for the GUI.
