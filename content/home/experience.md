@@ -28,8 +28,8 @@ date_format = "Jan 2006"
   description = """
   What I've done so far includes:
   
-  * Developed methods for extracting neural trajectories and neural signals from volumetric videos of transgenic C-elegans.
-  * Developed online algorithms for fast extraction of calcium imaging data from light field images.
+  * Developing methods for extracting neural trajectories and neural signals from volumetric videos of transgenic C-elegans.
+  * Developing online algorithms for fast extraction of calcium imaging data from light field images.
   """
 
 [[experience]]
