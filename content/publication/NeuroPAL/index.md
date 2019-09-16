@@ -36,8 +36,8 @@ tags:
 - NeuroPAL
 featured: false
 
-url_pdf: https://www.biorxiv.org/content/10.1101/676312v1.abstract
-url_code: '#'
+url_pdf: https://www.biorxiv.org/content/biorxiv/early/2019/06/20/676312.full-text.pdf
+url_code: https://www.biorxiv.org/content/10.1101/676312v1.abstract
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
