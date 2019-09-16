@@ -3,7 +3,8 @@ title: Intelligent 2048 Game Player
 summary: AI game player for 2048 game based on alpha/beta pruning of min-max state space graph.
 
 tags:
-- Robotics
+- AI
+- 2048
 date: "2000-00-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
