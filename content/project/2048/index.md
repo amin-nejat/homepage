@@ -1,6 +1,6 @@
 ---
 title: Intelligent 2048 Game Player
-summary: AI game player for 2048 game based on alpha/beta pruning of min-max state space graph.
+summary: ""
 
 tags:
 - AI
