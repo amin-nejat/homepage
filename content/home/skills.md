@@ -45,34 +45,4 @@ subtitle = ""
   name = "LATEX"
   description = "100%"
   
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Machine Learning"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Deep Learning"
-  description = "90%"  
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Convex Optimization"
-  description = "90%"  
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Graph Theory"
-  description = "90%"  
-
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Dynamical Systems"
-  description = "80%"
-  
 +++
