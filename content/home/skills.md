@@ -19,7 +19,108 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
+  description = "90%" 
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "MATLAB"
   description = "100%"  
   
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Python"
+  description = "100%"  
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "C and C++"
+  description = "80%"  
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "LATEX"
+  description = "100%"
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "90%"
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Deep Learning"
+  description = "90%"  
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Convex Optimization"
+  description = "90%"  
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Graph Theory"
+  description = "90%"  
 
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Dynamical Systems"
+  description = "80%"
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Soccer"
+  description = "100%" 
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Dancing"
+  description = "100%"
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Basketball"
+  description = "80%" 
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Billiards"
+  description = "90%" 
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Swimming"
+  description = "70%" 
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Biking"
+  description = "70%" 
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Running"
+  description = "90%" 
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Squash"
+  description = "60%" 
+  
 +++
