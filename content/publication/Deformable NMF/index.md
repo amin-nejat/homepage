@@ -1,5 +1,5 @@
 ---
-title: "Deformable NMF"
+title: "Deformable Non-negative Matrix Factorization"
 authors:
 - admin
 - Erdem Varol

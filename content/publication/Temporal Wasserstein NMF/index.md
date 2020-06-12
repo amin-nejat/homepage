@@ -1,5 +1,5 @@
 ---
-title: "Temporal Wasserstein Non-Negative Matrix Factorization for Non-Rigid Motion Segmentation and Spatiotemporal Deconvolution"
+title: "Temporal Wasserstein Non-Negative Matrix Factorization"
 authors:
 - Erdem Varol
 - admin

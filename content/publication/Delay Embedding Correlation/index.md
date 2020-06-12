@@ -1,5 +1,5 @@
 ---
-title: "Delay Embedding Correlation"
+title: "Non-parametric Inference of Correlations Between Non-simultaneous Neural Data"
 authors:
 - Francesco Fumarola
 - admin
