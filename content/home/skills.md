@@ -19,30 +19,30 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "90%" 
+  description = "" 
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "MATLAB"
-  description = "100%"  
+  description = ""  
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Python"
-  description = "100%"  
+  description = ""  
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "C and C++"
-  description = "80%"  
+  description = ""  
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "LATEX"
-  description = "100%"
+  description = ""
   
 +++

@@ -25,13 +25,16 @@ interests:
 - Probability & Statistics
 - Dynamical Systems
 - Optimization
-- Deep Generative Models
+- Machine Learning
 
 education:
   courses:
-  - course: M.A. in Neuroscience
+  - course: Ph.D. in Neuroscience
     institution: Columbia University
     year: current
+  - course: M.A. and M.Ph. in Theoretical Neuroscience
+    institution: Columbia University
+    year: 2019
   - course: B.Sc. in Computer Engineering, Minor in Pure Mathematics
     institution: Sharif University of Technology
     year: 2016
@@ -66,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student of theoretical neuroscience at Columbia University. My research interests are quite broad, but I am mostly interested in modeling real-world physical data using tools and techniques from optimization, probabilistic modeling, machine learning, and dynamical systems. Apart from my academic life, I'm very much into sports and dancing. I play soccer and basketball very often and I sometimes swim, bike and run. I'm currently learning ballroom and latin dance and I'm part of a persian dance group called GISU.
+I am a graduate student of theoretical neuroscience at Columbia University. My research interests are quite broad, but I am mostly interested in modeling real-world physical data using tools and techniques from optimization, probabilistic modeling, machine learning, and dynamical systems. Apart from my academic life, I'm very much into sports and dancing. I play soccer and basketball very often and I sometimes swim, bike and run. I'm currently learning ballroom and latin dance and I'm part of a Persian dance group called GISU.
