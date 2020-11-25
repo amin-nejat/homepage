@@ -30,8 +30,8 @@ tags:
 - Approximate-Algorithm
 featured: false
 
-url_pdf: https://arxiv.org/pdf/1906.00273.pdf
-url_code: https://arxiv.org/abs/1906.00273
+url_pdf: 'https://arxiv.org/pdf/1906.00273.pdf'
+url_code: 'https://github.com/amin-nejat/RRWOC'
 url_dataset: ''
 url_poster: ''
 url_project: ''

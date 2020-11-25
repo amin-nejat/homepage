@@ -12,7 +12,7 @@ authors:
 - Vivek Venkatachalam
 - Oliver Hobert
 date: "2019-08-19T00:00:00Z"
-doi: "https://doi.org/10.1101/676312"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-09-16T00:00:00Z"
@@ -38,12 +38,7 @@ featured: false
 
 url_pdf: https://www.biorxiv.org/content/biorxiv/early/2019/06/20/676312.full-text.pdf
 url_code: https://github.com/amin-nejat/CELL_ID
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

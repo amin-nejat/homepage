@@ -7,7 +7,6 @@ authors:
 - Vivek Venkatachalam
 - Albert Lin
 - Aravi Samuel
-- Oliver Hobert
 - Liam Paninski
 date: "2020-06-10T00:00:00Z"
 doi: ""
@@ -35,14 +34,9 @@ tags:
 - dNMF
 featured: false
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: 'https://www.biorxiv.org/content/10.1101/2020.07.07.192120v1.full.pdf'
+url_code: 'https://github.com/amin-nejat/dNMF'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
