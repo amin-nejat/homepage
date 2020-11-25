@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "MICCAI"
+  organization_url = "http://www.miccai.org/about-miccai/awards/student-travel-awards/"
+  title = "Student Travel Award, in MICCAI Conference, Peru"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-01-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
   organization = "IMC"
   organization_url = "http://imc-math.org.uk"
   title = "Gold Medal in International Mathematical Competition (IMC)"

@@ -28,10 +28,25 @@ date_format = "Jan 2006"
   description = """
   What I've done so far includes:
   
-  * Developing methods for extracting neural trajectories and neural signals from volumetric videos of transgenic C-elegans.
-  * Developing online algorithms for fast extraction of calcium imaging data from light field images.
+  * Developing methods based on non-linear attractor reconstruciton for investigation causality in networks of interacting nodes.
+  * Developing methods for neuroscience data analysis using tools from optimal transport, statistical inference, matrix factorization, computer vision, machine learning, optimization, and dynamical systems.
   """
 
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Columbia University"
+  company_url = ""
+  location = "New York City, US"
+  date_start = "2016-01-01"
+  date_end = ""
+  description = """
+  
+  * Fall 2020 - Foundations of Graphical Models
+  * Spring 2020 - Theoretical Neuroscience
+  * Spring 2020 - Math Tools for Neuroscientists (instructor & TA)
+  * Fall 2019 - Probabilistic Programming Workshop
+  """
+  
 [[experience]]
   title = "Software Developer"
   company = "Hasin Co. & Torob"
