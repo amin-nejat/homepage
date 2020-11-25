@@ -4,7 +4,7 @@ authors:
 - Erdem Varol
 - admin
 date: "2019-06-01T00:00:00Z"
-doi: "https://doi.org/10.1101/676312"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-09-16T00:00:00Z"
