@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = """
   What I've done so far includes:
   
-  * Developing methods based on non-linear attractor reconstruciton for investigation causality in networks of interacting nodes.
+  * Developing methods based on non-linear attractor reconstruciton for investigating causality in the networks of interacting nodes.
   * Developing methods for neuroscience data analysis using tools from optimal transport, statistical inference, matrix factorization, computer vision, machine learning, optimization, and dynamical systems.
   """
 
