@@ -16,8 +16,8 @@ publishDate: "2019-09-16T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Robust Approximate Linear Regression Without Correspondence"
+publication_short: "rRWOC"
 
 abstract: Estimating regression coefficients using unordered multisets of covariates and responses has been introduced as the regression without correspondence problem. Previous theoretical analysis of the problem has been done in a setting where the responses are a permutation of the regressed covariates. This paper expands the setting by analyzing the problem where they may be missing correspondences and outliers in addition to a permutation action. We term this problem robust regression without correspondence and provide several algorithms for exact and approximate recovery in a noiseless and noisy one-dimensional setting as well as an approximation algorithm for multiple dimensions. The theoretical guarantees of the algorithms are verified in simulation data. We also demonstrate a neuroscience application by obtaining robust point set matchings of the neurons of the model organism Caenorhabditis elegans.
 
