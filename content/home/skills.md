@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "lightbulb-on"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Problem Solving"
   description = ""  
   
@@ -27,7 +27,7 @@ subtitle = ""
   description = "" 
 
 [[feature]]
-  icon = "user-robot"
+  icon = "user"
   icon_pack = "fas"
   name = "Machine Learning"
   description = ""  
@@ -39,7 +39,7 @@ subtitle = ""
   description = ""  
 
 [[feature]]
-  icon = "user-robot"
+  icon = "user"
   icon_pack = "fas"
   name = "Reinforcement Learning"
   description = ""  
