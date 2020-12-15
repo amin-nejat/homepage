@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "lightbulb-on"
+  icon = "lightbulb"
   icon_pack = "fas"
   name = "Problem Solving"
   description = ""  
@@ -27,7 +27,7 @@ subtitle = ""
   description = "" 
 
 [[feature]]
-  icon = "user"
+  icon = "robot"
   icon_pack = "fas"
   name = "Machine Learning"
   description = ""  
@@ -39,7 +39,7 @@ subtitle = ""
   description = ""  
 
 [[feature]]
-  icon = "user"
+  icon = "robot"
   icon_pack = "fas"
   name = "Reinforcement Learning"
   description = ""  
