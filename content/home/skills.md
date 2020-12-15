@@ -27,14 +27,14 @@ subtitle = ""
   description = "" 
 
 [[feature]]
-  icon = "robot"
+  icon = "user-robot"
   icon_pack = "fas"
   name = "Machine Learning"
   description = ""  
   
 [[feature]]
-  icon = "function"
-  icon_pack = "far"
+  icon = "subscript"
+  icon_pack = "fas"
   name = "Dynamical Systems"
   description = ""  
 
@@ -45,26 +45,26 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "computer-classic"
+  icon = "code"
   icon_pack = "fas"
   name = "MATLAB"
   description = ""  
   
 [[feature]]
-  icon = "computer-classic"
+  icon = "code"
   icon_pack = "fas"
   name = "Python"
   description = ""  
   
 [[feature]]
-  icon = "computer-classic"
+  icon = "code"
   icon_pack = "fas"
   name = "C and C++"
   description = ""  
   
 [[feature]]
-  icon = "typewriter"
-  icon_pack = "fas"
+  icon = "keyboard"
+  icon_pack = "far"
   name = "LATEX"
   description = ""
 
