@@ -14,35 +14,58 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+[[feature]]
+  icon = "lightbulb-on"
+  icon_pack = "far"
+  name = "Problem Solving"
+  description = ""  
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
   description = "" 
+
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = ""  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "function"
+  icon_pack = "far"
+  name = "Dynamical Systems"
+  description = ""  
+
+[[feature]]
+  icon = "user-robot"
+  icon_pack = "fas"
+  name = "Reinforcement Learning"
+  description = ""  
+  
+[[feature]]
+  icon = "computer-classic"
   icon_pack = "fas"
   name = "MATLAB"
   description = ""  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "computer-classic"
   icon_pack = "fas"
   name = "Python"
   description = ""  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "computer-classic"
   icon_pack = "fas"
   name = "C and C++"
   description = ""  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "typewriter"
   icon_pack = "fas"
   name = "LATEX"
   description = ""
-  
+
 +++
