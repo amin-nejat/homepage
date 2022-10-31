@@ -37,8 +37,8 @@ tags:
 - C. elegans
 featured: false
 
-url_pdf: https://ora.ox.ac.uk/objects/uuid:0838d9ea-e9ff-4d4d-b52e-8dcbd3efcb9f/download_file?safe_filename=Varol_et_al_Statistical_atlas.pdf&type_of_work=Conference+item
-# url_code: https://github.com/amin-nejat/CELL_ID
+url_pdf: 'https://ora.ox.ac.uk/objects/uuid:0838d9ea-e9ff-4d4d-b52e-8dcbd3efcb9f/download_file?safe_filename=Varol_et_al_Statistical_atlas.pdf&type_of_work=Conference+item'
+url_code: 'https://github.com/amin-nejat/StatAtlas'
 
 
 # Featured image

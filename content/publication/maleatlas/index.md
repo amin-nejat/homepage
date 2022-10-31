@@ -37,8 +37,8 @@ tags:
 - C. elegans 
 featured: false
 
-url_pdf: https://www.biorxiv.org/content/10.1101/2021.04.06.438718.full.pdf
-# url_code: https://github.com/amin-nejat/CELL_ID
+url_pdf: 'https://www.biorxiv.org/content/10.1101/2021.04.06.438718.full.pdf'
+url_code: ''
 
 
 # Featured image

@@ -36,8 +36,8 @@ tags:
 - NeuroPAL
 featured: false
 
-url_pdf: https://www.biorxiv.org/content/biorxiv/early/2019/06/20/676312.full-text.pdf
-url_code: https://github.com/amin-nejat/CELL_ID
+url_pdf: 'https://www.biorxiv.org/content/biorxiv/early/2019/06/20/676312.full-text.pdf'
+url_code: 'https://github.com/amin-nejat/CELL_ID'
 
 
 # Featured image

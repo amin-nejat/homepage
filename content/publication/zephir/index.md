@@ -1,12 +1,11 @@
 ---
-title: "Sinkhorn permutation variational marginal inference"
+title: "Versatile Multiple Object Tracking in Sparse 2D/3D Videos Via Diffeomorphic Image Registration"
 authors:
 - Gonzalo Mena
 - Erdem Varol
 - admin
 - Eviatar Yemini
 - Liam Paninski
-
 date: "2019-08-19T00:00:00Z"
 doi: ""
 
@@ -20,20 +19,21 @@ publishDate: "2019-09-16T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Sinkhorn permutation variational marginal inference"
-publication_short: ""
+publication: "Versatile Multiple Object Tracking in Sparse 2D/3D Videos Via Diffeomorphic Image Registration"
+publication_short: "Zephir"
 
-abstract: We address the problem of marginal inference for an exponential family defined over the set of permutation matrices. This problem is known to quickly become intractable as the size of the permutation increases, since its involves the computation of the permanent of a matrix, a# P-hard problem. We introduce Sinkhorn variational marginal inference as a scalable alternative, a method whose validity is ultimately justified by the so-called Sinkhorn approximation of the permanent. We demonstrate the effectiveness of our method in the problem of probabilistic identification of neurons in the worm C. elegans.
+abstract: Tracking body parts in behaving animals, extracting fluorescence signals from cells embedded in deforming tissue, and analyzing cell migration patterns during development all require tracking objects with partially correlated motion. As dataset sizes increase, manual tracking of objects becomes prohibitively inefficient and slow, necessitating automated and semi-automated computational tools. Unfortunately, existing methods for multiple object tracking (MOT) are either developed for specific datasets and hence do not generalize well to other datasets, or require large amounts of training data that are not readily available. This is further exacerbated when tracking fluorescent sources in moving and deforming tissues, where the lack of unique features and sparsely populated images create a challenging environment, especially for modern deep learning techniques. By leveraging technology recently developed for spatial transformer networks, we propose ZephIR, an image registration framework for semi-supervised MOT in 2D and 3D videos. ZephIR can generalize to a wide range of biological systems by incorporating adjustable parameters that encode spatial (sparsity, texture, rigidity) and temporal priors of a given data class. We demonstrate the accuracy and versatility of our approach in a variety of applications, including tracking the body parts of a behaving mouse and neurons in the brain of a freely moving C. elegans. We provide an open-source package along with a web-based graphical user interface that allows users to provide small numbers of annotations to interactively improve tracking results.
 
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags:
+- Multiple Object Tracking
 featured: false
 
-url_pdf: http://proceedings.mlr.press/v118/mena20a/mena20a.pdf
-# url_code: https://github.com/amin-nejat/CELL_ID
+url_pdf: 'https://www.biorxiv.org/content/10.1101/2022.07.18.500485.full.pdf'
+url_code: 'https://github.com/venkatachalamlab/ZephIR'
 
 
 # Featured image

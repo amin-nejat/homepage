@@ -1,12 +1,10 @@
 ---
 title: "Statistical Atlas of C. elegans Neurons"
 authors:
+- Gonzalo Mena
 - Erdem Varol
 - admin
-- Ruoxi Sun
-- Gonzalo Mena
 - Eviatar Yemini
-- Oliver Hobert
 - Liam Paninski
 date: "2019-08-19T00:00:00Z"
 doi: ""
@@ -25,20 +23,18 @@ publication_types: ["1"]
 publication: "Statistical Atlas of C. elegans Neurons"
 publication_short: "StatAtlas"
 
-abstract: Constructing a statistical atlas of neuron positions in the nematode Caenorhabditis elegans enables a wide range of applications that require neural identity. These applications include annotating gene expression, extracting calcium activity, and evaluating nervous-system mutations. Large complete sets of neural annotations are necessary to determine canonical neuron positions and their associated confidence regions. Recently, a transgene of C. elegans (“NeuroPAL”) has been introduced to assign correct identities to all neurons in the worm via a deterministic, fluorescent colormap. This strain has enabled efficient and accurate annotation of worm neurons. Using a dataset of 10 worms, we propose a statistical model that captures the latent means and covariances of neuron locations, with efficient optimization strategies to infer model parameters. We demonstrate the utility of this model in two critical applications. First, we use our trained atlas to automatically annotate neuron identities in C. elegans at the state-of-the-art rate. Second, we use our atlas to compute correlations between neuron positions, thereby determining covariance in neuron placement. The code to replicate the statistical atlas is distributed publicly at https://github.com/amin-nejat/StatAtlas.
-
+abstract: We address the problem of marginal inference for an exponential family defined over the set of permutation matrices. This problem is known to quickly become intractable as the size of the permutation increases, since its involves the computation of the permanent of a matrix, a# P-hard problem. We introduce Sinkhorn variational marginal inference as a scalable alternative, a method whose validity is ultimately justified by the so-called Sinkhorn approximation of the permanent. We demonstrate the effectiveness of our method in the problem of probabilistic identification of neurons in the worm C. elegans.
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags:
-- NeuroPAL
-- Atlas
-- C. elegans
+- Variational Inference
+- Sinkhorn
 featured: false
 
-url_pdf: https://ora.ox.ac.uk/objects/uuid:0838d9ea-e9ff-4d4d-b52e-8dcbd3efcb9f/download_file?safe_filename=Varol_et_al_Statistical_atlas.pdf&type_of_work=Conference+item
-# url_code: https://github.com/amin-nejat/CELL_ID
+url_pdf: 'http://proceedings.mlr.press/v118/mena20a/mena20a.pdf'
+url_code: ''
 
 
 # Featured image

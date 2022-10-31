@@ -30,10 +30,12 @@ abstract: We study Sinkhorn EM (sEM), a variant of the expectation maximization 
 summary: ""
 
 tags:
+- Expectation Maximization
+- Optimal Transport
 featured: false
 
-url_pdf: https://arxiv.org/pdf/2006.16548
-# url_code: https://github.com/amin-nejat/CELL_ID
+url_pdf: 'https://arxiv.org/pdf/2006.16548'
+url_code: 'https://github.com/amin-nejat/SinkhornEM'
 
 
 # Featured image

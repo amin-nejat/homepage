@@ -34,8 +34,8 @@ tags:
 - PID
 featured: false
 
-url_pdf: https://proceedings.neurips.cc/paper/2021/file/a9a1d5317a33ae8cef33961c34144f84-Paper.pdf
-# url_code: https://github.com/amin-nejat/CELL_ID
+url_pdf: 'https://proceedings.neurips.cc/paper/2021/file/a9a1d5317a33ae8cef33961c34144f84-Paper.pdf'
+url_code: ''
 
 
 # Featured image
