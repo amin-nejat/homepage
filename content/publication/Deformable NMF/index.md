@@ -32,7 +32,7 @@ summary: ""
 
 tags:
 - dNMF
-featured: false
+featured: true
 
 url_pdf: 'https://www.biorxiv.org/content/10.1101/2020.07.07.192120v1.full.pdf'
 url_code: 'https://github.com/amin-nejat/dNMF'

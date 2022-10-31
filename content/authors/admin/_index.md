@@ -20,18 +20,21 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
+
 interests:
 - Neuroscience
 - Probability & Statistics
 - Dynamical Systems
 - Optimization
 - Machine Learning
+- Computer Vision
+
 
 education:
   courses:
   - course: Ph.D. in Neuroscience
     institution: Columbia University
-    year: current
+    year: 2022
   - course: M.A. and M.Ph. in Theoretical Neuroscience
     institution: Columbia University
     year: 2019
@@ -72,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student of theoretical neuroscience at Columbia University. My research interests are quite broad, but I am mostly interested in modeling real-world physical data using tools and techniques from optimization, probabilistic modeling, machine learning, and dynamical systems. Apart from my academic life, I'm very much into sports and dancing. I play soccer and basketball very often and I sometimes swim, bike and run. I'm currently learning ballroom and latin dance and I'm part of a Persian dance group called GISU.
+I'm a postdoc at NYU and the Flatiron Institute working with <a href="http://neurostatslab.org/">Alex Williams</a>. My research interests are quite broad, but I am mostly interested in modeling neural data using tools and techniques from statistics, machine learning, and dynamical systems. I did my PhD in the <a href="https://ctn.zuckermaninstitute.columbia.edu/">Center for Theoretical Neuroscience</a> of Columbia University where I was primarily advised by <a href="http://www.stat.columbia.edu/~liam/">Liam Paninski</a>. Apart from my academic life, I'm very much into sports and dancing. I often play soccer and basketball and I occasionally swim, bike and run. I'm currently learning ballroom and latin dances and I'm part of a Persian dance group called GISU.

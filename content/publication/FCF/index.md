@@ -31,7 +31,7 @@ summary: ""
 
 tags:
 - dNMF
-featured: false
+featured: true
 
 url_pdf: 'https://www.biorxiv.org/content/10.1101/2020.11.23.394916v1.full.pdf'
 url_code: 'https://github.com/amin-nejat/CCM'
