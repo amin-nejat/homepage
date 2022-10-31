@@ -23,17 +23,17 @@ publication_types: ["3"]
 publication: "Predicting perturbation effects from resting state activity using functional causal flow"
 publication_short: "FCF"
 
-abstract: Targeted manipulation of neural activity will be greatly facilitated by understanding causal interactions within neural ensembles. Here, we introduce a novel statistical method to infer a network's “functional causal flow” (FCF) from ensemble neural recordings. Using ground truth data from models of cortical circuits, we show that FCF captures functional hierarchies in the ensemble and reliably predicts the effects of perturbing individual neurons or neural clusters. Critically, FCF is robust to noise and can be inferred from the activity of even a small fraction of neurons in the circuit. It thereby permits accurate prediction of circuit perturbation effects with existing recording technologies for the primate brain. We confirm this prediction by recording changes in the prefrontal ensemble spiking activity of alert monkeys in response to single-electrode microstimulation. Our results provide a foundation for using targeted circuit manipulations to develop new brain-machine interfaces or ameliorate cognitive dysfunctions in the human brain.
+abstract: A crucial challenge in targeted manipulation of neural activity is to identify perturbation sites whose stimulation exerts significant effects downstream (high efficacy), a procedure currently achieved by labor-intensive trial-and-error. Targeted perturbations will be greatly facilitated by understanding causal interactions within neural ensembles and predicting the efficacy of perturbation sites before intervention. Here, we address this issue by developing a computational framework to predict how single-site micorstimulation alters the ensemble spiking activity in an alert monkey’s prefrontal cortex. Our framework uses delay embedding techniques to infer the ensemble’s functional causal flow (FCF) based on the functional interactions inferred at rest. We validate FCF using ground truth data from models of cortical circuits, showing that FCF is robust to noise and can be inferred from brief recordings of even a small fraction of neurons in the circuit. A detailed comparison of FCF with several alternative methods, including Granger causality and transfer entropy, highlighted the advantages of FCF in predicting perturbation effects on empirical data. Our results provide the foundation for using targeted circuit manipulations to develop targeted interventions suitable for brain-machine interfaces and ameliorating cognitive dysfunctions in the human brain.
 
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "In this project, we develop a computational framework to predict how single-site micorstimulation alters the ensemble spiking activity in an alert monkey’s prefrontal cortex."
 
 tags:
 - dNMF
 featured: true
 
-url_pdf: 'https://www.biorxiv.org/content/10.1101/2020.11.23.394916v1.full.pdf'
+url_pdf: 'https://www.biorxiv.org/content/10.1101/2020.11.23.394916v3.full.pdf'
 url_code: 'https://github.com/amin-nejat/CCM'
 
 

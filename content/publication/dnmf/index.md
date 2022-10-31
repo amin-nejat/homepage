@@ -28,7 +28,7 @@ abstract: Extracting calcium traces from the neurons of mobile animals is a crit
 
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Extracting calcium traces from the neurons of mobile animals is a critical step in the study of the large-scale neuronal dynamics that govern behavior. Accurate activity extraction requires the correction of motion and movement-induced deformations as well as demixing of signals that may overlap spatially due to limitations in optical resolution.  Here, we introduce a deformable non-negative matrix factorization (dNMF) framework that jointly optimizes registration with signal demixing."
 
 tags:
 - dNMF

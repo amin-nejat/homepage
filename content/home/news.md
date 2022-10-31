@@ -19,9 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  date_start = "2022-11-01"
+  description = """
+  Started postdoc position at Flatiron Institute with Alex Williams. Exciting times ahead!
+  """
+  
+[[experience]]
   date_start = "2022-09-16"
   description = """
-  I defended my thesis, I'm a DOCTOR now!
+  I defended my <a href="https://academiccommons.columbia.edu/doi/10.7916/nf9r-5534">thesis</a>, I'm a DOCTOR now! Grateful for the enrhiching and exciting PhD experience at Columbia.
   """
   
 +++
