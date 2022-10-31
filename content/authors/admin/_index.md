@@ -10,11 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student of Theoretical Neuroscience
+role: Postdoctoral Researcher of Theoretical Neuroscience
+<!--
+Graduate Student of Theoretical Neuroscience
+-->
 
 # Organizations/Affiliations
 organizations:
-- name: Columbia University
+- name: Flatiron Institute
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

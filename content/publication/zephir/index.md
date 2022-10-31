@@ -1,14 +1,14 @@
 ---
-title: "Sinkhorn EM: an expectation-maximization algorithm based on entropic optimal transport"
+title: "Sinkhorn permutation variational marginal inference"
 authors:
 - Gonzalo Mena
-- admin
 - Erdem Varol
-- Jonathan Niles-Weed
+- admin
+- Eviatar Yemini
+- Liam Paninski
 
 date: "2019-08-19T00:00:00Z"
 doi: ""
-
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-09-16T00:00:00Z"
@@ -17,13 +17,13 @@ publishDate: "2019-09-16T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Sinkhorn EM: an expectation-maximization algorithm based on entropic optimal transport"
-publication_short: "SinkhornEM"
+publication: "Sinkhorn permutation variational marginal inference"
+publication_short: ""
 
-abstract: We study Sinkhorn EM (sEM), a variant of the expectation maximization (EM) algorithm for mixtures based on entropic optimal transport. sEM differs from the classic EM algorithm in the way responsibilities are computed during the expectation step: rather than assign data points to clusters independently, sEM uses optimal transport to compute responsibilities by incorporating prior information about mixing weights. Like EM, sEM has a natural interpretation as a coordinate ascent procedure, which iteratively constructs and optimizes a lower bound on the log-likelihood. However, we show theoretically and empirically that sEM has better behavior than EM: it possesses better global convergence guarantees and is less prone to getting stuck in bad local optima. We complement these findings with experiments on simulated data as well as in an inference task involving C. elegans neurons and show that sEM learns cell labels significantly better than other approaches.
+abstract: We address the problem of marginal inference for an exponential family defined over the set of permutation matrices. This problem is known to quickly become intractable as the size of the permutation increases, since its involves the computation of the permanent of a matrix, a# P-hard problem. We introduce Sinkhorn variational marginal inference as a scalable alternative, a method whose validity is ultimately justified by the so-called Sinkhorn approximation of the permanent. We demonstrate the effectiveness of our method in the problem of probabilistic identification of neurons in the worm C. elegans.
 
 
 # Summary. An optional shortened abstract.
@@ -32,7 +32,7 @@ summary: ""
 tags:
 featured: false
 
-url_pdf: https://arxiv.org/pdf/2006.16548
+url_pdf: http://proceedings.mlr.press/v118/mena20a/mena20a.pdf
 # url_code: https://github.com/amin-nejat/CELL_ID
 
 

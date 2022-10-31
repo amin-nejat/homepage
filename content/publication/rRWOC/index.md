@@ -13,7 +13,7 @@ publishDate: "2019-09-16T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Robust Approximate Linear Regression Without Correspondence"
@@ -30,7 +30,7 @@ tags:
 - Approximate-Algorithm
 featured: false
 
-url_pdf: 'https://arxiv.org/pdf/1906.00273.pdf'
+url_pdf: 'https://openaccess.thecvf.com/content/WACV2021/papers/Nejatbakhsh_Neuron_Matching_in_C._elegans_With_Robust_Approximate_Linear_Regression_WACV_2021_paper.pdf'
 url_code: 'https://github.com/amin-nejat/RRWOC'
 url_dataset: ''
 url_poster: ''
