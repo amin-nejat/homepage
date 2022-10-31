@@ -1,5 +1,5 @@
 ---
-title: "Functional Causal Flow"
+title: "Predicting perturbation effects from resting state activity using functional causal flow"
 authors:
 - admin
 - Francesco Fumarola
