@@ -1,5 +1,5 @@
 ---
-title: "Sinkhorn EM: an expectation-maximization algorithm based on entropic optimal transport"
+title: "Sinkhorn EM, an expectation-maximization algorithm based on entropic optimal transport"
 authors:
 - Gonzalo Mena
 - admin
@@ -19,7 +19,7 @@ publishDate: "2019-09-16T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Sinkhorn EM: an expectation-maximization algorithm based on entropic optimal transport"
+publication: "Sinkhorn EM, an expectation-maximization algorithm based on entropic optimal transport"
 publication_short: "SinkhornEM"
 
 abstract: We study Sinkhorn EM (sEM), a variant of the expectation maximization (EM) algorithm for mixtures based on entropic optimal transport. sEM differs from the classic EM algorithm in the way responsibilities are computed during the expectation step: rather than assign data points to clusters independently, sEM uses optimal transport to compute responsibilities by incorporating prior information about mixing weights. Like EM, sEM has a natural interpretation as a coordinate ascent procedure, which iteratively constructs and optimizes a lower bound on the log-likelihood. However, we show theoretically and empirically that sEM has better behavior than EM: it possesses better global convergence guarantees and is less prone to getting stuck in bad local optima. We complement these findings with experiments on simulated data as well as in an inference task involving C. elegans neurons and show that sEM learns cell labels significantly better than other approaches.
