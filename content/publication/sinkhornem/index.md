@@ -5,7 +5,6 @@ authors:
 - admin
 - Erdem Varol
 - Jonathan Niles-Weed
-
 date: "2019-08-19T00:00:00Z"
 doi: ""
 

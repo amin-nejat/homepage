@@ -1,5 +1,5 @@
 ---
-title: "Statistical Atlas of C. elegans Neurons"
+title: "Sinkhorn permutation variational marginal inference"
 authors:
 - Gonzalo Mena
 - Erdem Varol
@@ -20,10 +20,10 @@ publishDate: "2019-09-16T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Statistical Atlas of C. elegans Neurons"
-publication_short: "StatAtlas"
+publication: "Sinkhorn permutation variational marginal inference"
+publication_short: "SinkhornVariational"
 
-abstract: We address the problem of marginal inference for an exponential family defined over the set of permutation matrices. This problem is known to quickly become intractable as the size of the permutation increases, since its involves the computation of the permanent of a matrix, a# P-hard problem. We introduce Sinkhorn variational marginal inference as a scalable alternative, a method whose validity is ultimately justified by the so-called Sinkhorn approximation of the permanent. We demonstrate the effectiveness of our method in the problem of probabilistic identification of neurons in the worm C. elegans.
+abstract: We address the problem of marginal inference for an exponential family defined over the set of permutation matrices. This problem is known to quickly become intractable as the size of the permutation increases, since its involves the computation of the permanent of a matrix, a NP-hard problem. We introduce Sinkhorn variational marginal inference as a scalable alternative, a method whose validity is ultimately justified by the so-called Sinkhorn approximation of the permanent. We demonstrate the effectiveness of our method in the problem of probabilistic identification of neurons in the worm C. elegans.
 
 # Summary. An optional shortened abstract.
 summary: ""

@@ -20,16 +20,16 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Probabilistic Joint Segmentation and Labeling of C. elegans Neurons"
-publication_short: "SinkhornEM"
+publication_short: "Segmentation-Labeling"
 
-abstract: Automatic identification and segmentation of the neurons of C. elegans enables evaluating nervous system mutations, positional variability, and allows us to conduct high-throughput population studies employing many animals. A recently introduced transgene of C. elegans, named “NeuroPAL” has enabled the efficient annotation of neurons and the construction of a statistical atlas of their positions. Previous atlas-based segmentation approaches have modeled images of cells as a mixture model. The expectation-maximization (EM) algorithm and its variants are used to find the (local) maximum likelihood parameters for this class of models. We present a variation of the EM algorithm called Sinkhorn-EM (sEM) that uses regularized optimal transport Sinkhorn iterations to enforce constraints on the marginals of the joint distribution of observed variables and latent assignments in order to incorporate our prior information about cell sizes into the cluster-data assignment proportions. We apply our method to the problem of segmenting and labeling neurons in fluorescent microscopy images of C. elegans specimens. We show empirically that sEM outperforms vanilla EM and a recently proposed 3-step (filter, detect, identify) labeling approach. Open source code implementing this method is available at https://github.com/amin-nejat/SinkhornEM.
-
+abstract: Automatic identification and segmentation of the neurons of C. elegans enables evaluating nervous system mutations, positional variability, and allows us to conduct high-throughput population studies employing many animals. A recently introduced transgene of C. elegans, named "NeuroPAL" has enabled the efficient annotation of neurons and the construction of a statistical atlas of their positions. Previous atlas-based segmentation approaches have modeled images of cells as a mixture model. The expectation-maximization (EM) algorithm and its variants are used to find the (local) maximum likelihood parameters for this class of models. We present a variation of the EM algorithm called Sinkhorn-EM (sEM) that uses regularized optimal transport Sinkhorn iterations to enforce constraints on the marginals of the joint distribution of observed variables and latent assignments in order to incorporate our prior information about cell sizes into the cluster-data assignment proportions. We apply our method to the problem of segmenting and labeling neurons in fluorescent microscopy images of C. elegans specimens. We show empirically that sEM outperforms vanilla EM and a recently proposed 3-step (filter, detect, identify) labeling approach. Open source code implementing this method is available at https://github.com/amin-nejat/SinkhornEM.
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags:
-- dNMF
+- Segmentation
+- Labeling
 featured: false
 
 url_pdf: 'https://link.springer.com/content/pdf/10.1007%2F978-3-030-59722-1.pdf'
