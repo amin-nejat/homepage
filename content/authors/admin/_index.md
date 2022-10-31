@@ -11,14 +11,11 @@ superuser: true
 
 # Role/position
 role: Postdoctoral Researcher of Theoretical Neuroscience
-<!--
-Graduate Student of Theoretical Neuroscience
--->
 
 # Organizations/Affiliations
 organizations:
 - name: Flatiron Institute
-  url: ""
+  url: "https://www.simonsfoundation.org/flatiron/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
