@@ -21,13 +21,19 @@ date_format = "Jan 2006"
 [[experience]]
   date_start = "2022-11-01"
   description = """
-  Started postdoc position at Flatiron Institute with Alex Williams. Exciting times ahead!
+  I presented a <a href="https://www.abstractsonline.com/pp8/#!/10619/presentation/77839">poster</a> at <a href="https://www.sfn.org/meetings/neuroscience-2022">SfN22</a> titled <b>Controlled switching linear dynamical systems: a framework for perturbative interrogation of RNNs</b>. Very pleased to have a large audience attending my poster.
+  """
+  
+[[experience]]
+  date_start = "2022-11-01"
+  description = """
+  I received the <b>Flatiron Research Fellowship</b> and I'll be working with Alex Williams at the Flatiron Institute. Exciting times ahead!
   """
   
 [[experience]]
   date_start = "2022-09-16"
   description = """
-  I defended my <a href="https://academiccommons.columbia.edu/doi/10.7916/nf9r-5534">thesis</a>, I'm a DOCTOR now! Grateful for the enrhiching and exciting PhD experience at Columbia.
+  I defended my <a href="https://academiccommons.columbia.edu/doi/10.7916/nf9r-5534">thesis</a>, I'm a DOCTOR now! Grateful for the enriching and exciting PhD experience at Columbia.
   """
   
 +++
