@@ -18,7 +18,12 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
+[[experience]]
+  date_start = "2023-09-21"
+  description = """
+  Our paper titled  <a href="https://arxiv.org/abs/2308.11824"><b>Estimating Noise Correlations Across Continuous Conditions With Wishart Processes</b></a> has been selected for a poster presentation at <a href="https://neurips.cc/">NeurIPS 2023</a>. This is my first, first-author paper at NeurIPS! Let's go!
+  """
+  
 [[experience]]
   date_start = "2023-04-06"
   description = """
