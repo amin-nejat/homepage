@@ -18,6 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[experience]]
+  date_start = "2023-04-06"
+  description = """
+  Our paper titled  <b>Learning Probabilistic Piecewise Rigid Atlases of Model Organisms via Generative Deep Networks</b> has been selected for an oral presentation at <a href="https://www.ipmi2023.org/en/">IPMI 2023</a>. Excited to share this work with the community.
+  """
+
 [[experience]]
   date_start = "2022-11-01"
   description = """
@@ -27,13 +34,13 @@ date_format = "Jan 2006"
 [[experience]]
   date_start = "2022-11-01"
   description = """
-  I received the <b>Flatiron Research Fellowship</b> and I'll be working with Alex Williams at the Flatiron Institute. Exciting times ahead!
+  I received the <b>Flatiron Research Fellowship</b> and I'll be working with Alex Williams at the Flatiron Institute. Exciting times are ahead!
   """
   
 [[experience]]
   date_start = "2022-09-16"
   description = """
-  I defended my <a href="https://academiccommons.columbia.edu/doi/10.7916/nf9r-5534">thesis</a>, I'm a DOCTOR now! Grateful for the enriching and exciting PhD experience at Columbia.
+  I defended my <a href="https://academiccommons.columbia.edu/doi/10.7916/nf9r-5534">thesis</a>, and I'm a DOCTOR now! Grateful for the enriching and exciting Ph.D. experience at Columbia.
   """
   
 +++
