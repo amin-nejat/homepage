@@ -4,7 +4,7 @@ authors:
 - admin
 - Isabel Garon
 - Alex H Williams
-date: "2020-06-10T00:00:00Z"
+date: "2023-12-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +27,7 @@ abstract: The signaling capacity of a neural population depends on the scale and
 summary: "We develop a Bayesian modeling approach based on Wishart processes to accurately estimate noise correlations with very few trials by exploiting the smoothness of covariance change across neighboring conditions."
 
 tags:
-- dNMF
+- wishart-process
 featured: true
 
 url_pdf: 'https://arxiv.org/pdf/2308.11824.pdf'
