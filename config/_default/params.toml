@@ -97,7 +97,7 @@ address = {street = "160 5th Ave", city = "New York", region = "NY", postcode = 
 coordinates = {latitude = "40.816856", longitude = "-73.957951"}
 
 # Directions for visitors to locate you.
-directions = "Once entered the building take the elevators to the 5th floor"
+directions = "Once entered the building take the elevators to the 3rd floor"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
