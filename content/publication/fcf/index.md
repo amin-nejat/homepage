@@ -1,5 +1,5 @@
 ---
-title: "Predicting perturbation effects from resting state activity using functional causal flow"
+title: "Predicting the Effect of Micro-stimulation on Macaque Prefrontal Activity Based on Spontaneous Circuit Dynamics"
 authors:
 - admin
 - Francesco Fumarola
@@ -20,27 +20,28 @@ publishDate: "2020-11-25T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Predicting perturbation effects from resting state activity using functional causal flow"
+publication: "Predicting the Effect of Micro-stimulation on Macaque Prefrontal Activity Based on Spontaneous Circuit Dynamics"
 publication_short: "FCF"
 
-abstract: A crucial challenge in targeted manipulation of neural activity is to identify perturbation sites whose stimulation exerts significant effects downstream (high efficacy), a procedure currently achieved by labor-intensive trial-and-error. Targeted perturbations will be greatly facilitated by understanding causal interactions within neural ensembles and predicting the efficacy of perturbation sites before intervention. Here, we address this issue by developing a computational framework to predict how single-site micorstimulation alters the ensemble spiking activity in an alert monkey’s prefrontal cortex. Our framework uses delay embedding techniques to infer the ensemble’s functional causal flow (FCF) based on the functional interactions inferred at rest. We validate FCF using ground truth data from models of cortical circuits, showing that FCF is robust to noise and can be inferred from brief recordings of even a small fraction of neurons in the circuit. A detailed comparison of FCF with several alternative methods, including Granger causality and transfer entropy, highlighted the advantages of FCF in predicting perturbation effects on empirical data. Our results provide the foundation for using targeted circuit manipulations to develop targeted interventions suitable for brain-machine interfaces and ameliorating cognitive dysfunctions in the human brain.
+abstract: A crucial challenge in targeted manipulation of neural activity is to identify perturbation sites whose stimulation exerts significant effects downstream with high efficacy, a procedure currently achieved by labor-intensive and potentially harmful trial-and-error. Can one predict the effects of electrical stimulation on neural activity based on the circuit dynamics during spontaneous periods? Here, we show that the effects of single-site micro-stimulation on ensemble activity in an alert monkey's prefrontal cortex can be predicted solely based on the ensemble's spontaneous activity. 
+We first inferred the ensemble’s causal flow based on the directed functional interactions inferred during spontaneous periods using convergent cross-mapping and showed that it uncovers a causal hierarchy between the recording electrodes. We find that causal flow inferred at rest successfully predicts the spatiotemporal effects of micro-stimulation. We validate the computational features underlying causal flow using ground truth data from recurrent neural network models, showing that it is robust to noise and common inputs. A detailed comparison between convergent-cross mapping and alternative methods based on information theory reveals the advantages of the former method in predicting perturbation effects. Our results elucidate the causal interactions within neural ensembles and will facilitate the design of intervention protocols and targeted circuit manipulations suitable for brain-machine interfaces.
 
 
 # Summary. An optional shortened abstract.
-summary: "In this project, we develop a computational framework to predict how single-site micorstimulation alters the ensemble spiking activity in an alert monkey’s prefrontal cortex."
+summary: "In this project, we develop a computational framework to predict single-site micorstimulation effects using ensemble's resting state spiking activity in an alert monkey’s prefrontal cortex."
 
 tags:
 - dNMF
 featured: true
 
 url_pdf: 'https://www.biorxiv.org/content/10.1101/2020.11.23.394916v3.full.pdf'
-url_code: 'https://github.com/amin-nejat/CCM'
+url_code: 'https://github.com/amin-nejat/FCF'
 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: Luca Mazzucato & Amin Nejatbakhsh'
+  caption: 'Image credit: Amin Nejatbakhsh'
   focal_point: ""
   preview_only: false
 
