@@ -94,7 +94,7 @@ address = {street = "160 5th Ave", city = "New York", region = "NY", postcode = 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.816856", longitude = "-73.957951"}
+coordinates = {latitude = "40.74032635128311", longitude = "-73.99107542709558"}
 
 # Directions for visitors to locate you.
 directions = "Once entered the building take the elevators to the 3rd floor"
