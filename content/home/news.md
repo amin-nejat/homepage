@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  date_start = "2023-09-21"
+  date_start = "2024-05-03"
   description = """
   Our paper titled  <a href="https://openreview.net/forum?id=Fykvxdv2I8"><b>Estimating Noise Correlations Across Continuous Conditions With Wishart Processes</b></a> has been selected for an oral presentation at <a href="https://representational-alignment.github.io/">ICLR 2024 Workshop on Representational Alignment</a>.
   """
