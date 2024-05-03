@@ -39,7 +39,7 @@ date_format = "Jan 2006"
 [[experience]]
   date_start = "2023-04-06"
   description = """
-  Our paper titled  <b>Learning Probabilistic Piecewise Rigid Atlases of Model Organisms via Generative Deep Networks</b> has been selected for an oral presentation at <a href="https://www.ipmi2023.org/en/">IPMI 2023</a>. Excited to share this work with the community.
+  Our paper titled  <a href="https://link.springer.com/chapter/10.1007/978-3-031-34048-2_26"><b>Learning Probabilistic Piecewise Rigid Atlases of Model Organisms via Generative Deep Networks</b></a> has been selected for an oral presentation at <a href="https://www.ipmi2023.org/en/">IPMI 2023</a>. Excited to share this work with the community.
   """
 
 [[experience]]
