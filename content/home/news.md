@@ -25,6 +25,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  date_start = "2024-05-03"
+  description = """
+  Our paper titled  <a href="https://openreview.net/forum?id=Fykvxdv2I8"><b>Disentangling Recurrent Neural Dynamics with Stochastic Representational Geometry</b></a> has been selected for an oral presentation at <a href="https://representational-alignment.github.io/">ICLR 2024 Workshop on Representational Alignment</a>.
+  """
+  
+[[experience]]
   date_start = "2024-03-24"
   description = """
   I gave a lecture in the <a href="https://www.neuroinformaticslab.com/neuroinformatics-cs-gy-9223">Neuroinformatics</a> class at NYU on Multiple Object Tracking. Check out the <a href="https://docs.google.com/presentation/d/16QsMRqksIC4zh3QINLC6Uq71VYe9F5R20Em420EBsl0/edit?usp=sharing"><b>slides</b></a>.  
@@ -39,7 +45,7 @@ date_format = "Jan 2006"
 [[experience]]
   date_start = "2023-04-06"
   description = """
-  Our paper titled  <b>Learning Probabilistic Piecewise Rigid Atlases of Model Organisms via Generative Deep Networks</b> has been selected for an oral presentation at <a href="https://www.ipmi2023.org/en/">IPMI 2023</a>. Excited to share this work with the community.
+  Our paper titled  <a href="https://link.springer.com/chapter/10.1007/978-3-031-34048-2_26"><b>Learning Probabilistic Piecewise Rigid Atlases of Model Organisms via Generative Deep Networks</b></a> has been selected for an oral presentation at <a href="https://www.ipmi2023.org/en/">IPMI 2023</a>. Excited to share this work with the community.
   """
 
 [[experience]]
