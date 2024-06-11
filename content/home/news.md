@@ -19,6 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  date_start = "2024-06-20"
+  description = """
+  Honored to be awarded the <a href="https://www.nyas.org/person/amin-nejatbakhsh/"><b>2024 Leon Levy Fellowship in Neuroscience</b></a> by The New York Academy of Sciences.  
+  """
+
+[[experience]]
   date_start = "2024-03-24"
   description = """
   I gave a lecture in the <a href="https://www.neuroinformaticslab.com/neuroinformatics-cs-gy-9223">Neuroinformatics</a> class at NYU on Multiple Object Tracking. Check out the <a href="https://docs.google.com/presentation/d/16QsMRqksIC4zh3QINLC6Uq71VYe9F5R20Em420EBsl0/edit?usp=sharing"><b>slides</b></a>.  
